@@ -1,5 +1,5 @@
 ### INSTALL 1
-<pre></code>wget link hosting/install.sh && chmod +x install.sh && ./install.sh</code></pre>
+<pre><code>wget link hosting/install.sh && chmod +x install.sh && ./install.sh</code></pre>
 ### INSTALL 2
 <pre><code>pip3 install -r /usr/bin/kyt/requirements.txt</code></pre>
 ### INSTALL 3
